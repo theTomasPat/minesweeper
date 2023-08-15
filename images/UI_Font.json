@@ -1,0 +1,250 @@
+{
+	"textures": [
+		{
+			"image": "UI_Font",
+			"format": "RGBA8888",
+			"size": {
+				"w": 64,
+				"h": 64
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "UIFont_00",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 10,
+						"h": 10
+					}
+				},
+				{
+					"filename": "UIFont_01",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 16,
+						"y": 2,
+						"w": 10,
+						"h": 10
+					}
+				},
+				{
+					"filename": "UIFont_02",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 30,
+						"y": 2,
+						"w": 10,
+						"h": 10
+					}
+				},
+				{
+					"filename": "UIFont_03",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 44,
+						"y": 2,
+						"w": 10,
+						"h": 10
+					}
+				},
+				{
+					"filename": "UIFont_04",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 2,
+						"y": 16,
+						"w": 10,
+						"h": 10
+					}
+				},
+				{
+					"filename": "UIFont_05",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 16,
+						"y": 16,
+						"w": 10,
+						"h": 10
+					}
+				},
+				{
+					"filename": "UIFont_06",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 30,
+						"y": 16,
+						"w": 10,
+						"h": 10
+					}
+				},
+				{
+					"filename": "UIFont_07",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 44,
+						"y": 16,
+						"w": 10,
+						"h": 10
+					}
+				},
+				{
+					"filename": "UIFont_08",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 2,
+						"y": 30,
+						"w": 10,
+						"h": 10
+					}
+				},
+				{
+					"filename": "UIFont_09",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 16,
+						"y": 30,
+						"w": 10,
+						"h": 10
+					}
+				},
+				{
+					"filename": "UIFont_hyphen",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 30,
+						"y": 30,
+						"w": 10,
+						"h": 10
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

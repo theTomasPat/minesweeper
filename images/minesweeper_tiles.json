@@ -1,0 +1,355 @@
+{
+	"textures": [
+		{
+			"image": "minesweeper_tiles",
+			"format": "RGBA8888",
+			"size": {
+				"w": 128,
+				"h": 64
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "minesweeper_button_lose",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 18
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 50,
+						"h": 18
+					}
+				},
+				{
+					"filename": "minesweeper_button_restart",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 18
+					},
+					"frame": {
+						"x": 56,
+						"y": 2,
+						"w": 50,
+						"h": 18
+					}
+				},
+				{
+					"filename": "minesweeper_cursor",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 110,
+						"y": 2,
+						"w": 10,
+						"h": 10
+					}
+				},
+				{
+					"filename": "minesweeper_default",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 110,
+						"y": 16,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "minesweeper_button_win",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 18
+					},
+					"frame": {
+						"x": 2,
+						"y": 24,
+						"w": 50,
+						"h": 18
+					}
+				},
+				{
+					"filename": "minesweeper_flagged",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 56,
+						"y": 24,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "minesweeper_mine",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 68,
+						"y": 24,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "minesweeper_revealed_0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 80,
+						"y": 24,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "minesweeper_revealed_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 92,
+						"y": 24,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "minesweeper_revealed_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 104,
+						"y": 28,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "minesweeper_revealed_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 116,
+						"y": 28,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "minesweeper_revealed_4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 56,
+						"y": 36,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "minesweeper_revealed_5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 68,
+						"y": 36,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "minesweeper_revealed_6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 80,
+						"y": 36,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "minesweeper_revealed_7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 92,
+						"y": 36,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "minesweeper_revealed_8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 104,
+						"y": 40,
+						"w": 8,
+						"h": 8
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}
