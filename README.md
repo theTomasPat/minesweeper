@@ -1,3 +1,5 @@
+![A GIF showing gameplay](gameplay.gif)
+
 # Minesweeper
 
 An implementation of Minesweeper using the [Phaser](https://phaser.io) game framework.
